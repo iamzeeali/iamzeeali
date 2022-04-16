@@ -1,3 +1,7 @@
 ## Hi there, my name is Zee.
 
-### I am a Son and a Developer.
+- Loving son & a full stack JavaScript Developer 👨‍💻
+- Little biased towards frontend 😌. 
+- JavaScript fan boy. 🤩
+- Problem solver.📝
+- Have a thing for challenges and continues learning. 🤓 🧗
