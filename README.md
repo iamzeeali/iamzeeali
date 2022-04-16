@@ -1,17 +1,15 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
-![Hi](https://www.liveprompter.com/wp-content/uploads/2017/09/hello-world-banner.jpg "Hi")
+![Hi](https://appliedtechnology.humber.ca/assets/images/programs/diploma/computer-network/computer-network-banner.jpg "Hi")
 
-### Welcome to my Page, I'm [Zeeshan](https://zeeali.xyz "My Portfolio"), a passionate self-taught full stack web developer from india. I focus on attention to details, experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
+### Welcome to my Page!
+### I'm [Zeeshan](https://zeeali.xyz "My Portfolio"), a passionate self-taught full stack web developer from india. I focus on attention to details, experience, architecture, and code quality of the things I build. I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. Email @: <mdzeeshanali93@gmail.com>
 
 - Loving son & a full stack JavaScript Developer 👨‍💻
 - Little biased towards frontend 😌. 
 - JavaScript fan boy. 🤩
 - Problem solver.📝
 - Have a thing for challenges and continues learning. 🤓 🧗
-
-##### Email me at: <mdzeeshanali93@gmail.com>
+______________________________________________________________________________________________________________________________________________________________________
 
 ### My stack & tools:
 <p>
@@ -33,6 +31,13 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Expressjs-43853d?style=flat-square&logo=Express.js&logoColor=white" />
   </p>
+
+______________________________________________________________________________________________________________________________________________________________________
+
+### 📈 My Github stats:
+[![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamzeeali&show_icons=true&theme=radical)](https://github.com/iamzeeali/github-readme-stats)
+
+______________________________________________________________________________________________________________________________________________________________________
 
 ### Where to find me:
 <p><a href="https://github.com/iamzeeali" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/iamzeeali" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/iamzeeali" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
