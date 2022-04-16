@@ -1,4 +1,4 @@
-#### Hi, i'm Zeeshan Ali, a passionate self-taught full stack web developer from india. I focus on attention to details, experience, architecture, and code quality of the things I build.
+#### Hi, i'm [Zeeshan Ali](https://zeeali.xyz "My Portfolio")., a passionate self-taught full stack web developer from india. I focus on attention to details, experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
