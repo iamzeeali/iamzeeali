@@ -4,7 +4,8 @@
 ### Welcome to my Page!
 ### I'm [Zeeshan](https://www.linkedin.com/in/iamzeeali/ "My Portfolio"), a passionate, self-taught full stack software engineer from India, specializing in building seamless, responsive, and dynamic applications using ReactJS, HTML, CSS, and JavaScript. Proficient in Node.js, REST APIs, MongoDB, data structures, and system design. Committed to optimizing performance, ensuring cross-browser compatibility, and delivering exceptional user experiences. I focus on attention to details, user experience, architecture, and code quality of the things I build. I am also a DSA and system design enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
 Email: <mdzeeshanali@myyahoo.com>
-Leetcode: https://leetcode.com/u/mdzeeshan_ali
+
+Leetcode: leetcode.com/u/mdzeeshan_ali
 - Loving son & a full stack JavaScript Developer 👨‍💻
 - Little biased towards frontend 😌. 
 - JavaScript fan boy. 🤩
