@@ -1,5 +1,5 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
-![Hi](https://appliedtechnology.humber.ca/assets/images/programs/diploma/computer-network/computer-network-banner.jpg "Hi")
+![Hi](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png "Hi")
 
 ### Welcome to my Page!
 ### I'm [Zeeshan](https://www.linkedin.com/in/iamzeeali/ "My Portfolio"), a passionate, self-taught full stack software engineer from India, specializing in building seamless, responsive, and dynamic applications using ReactJS, HTML, CSS, and JavaScript. Proficient in Node.js, REST APIs, MongoDB, data structures, and system design. Committed to optimizing performance, ensuring cross-browser compatibility, and delivering exceptional user experiences. I focus on attention to details, user experience, architecture, and code quality of the things I build. I am also a DSA and system design enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
