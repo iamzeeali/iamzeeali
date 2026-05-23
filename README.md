@@ -1,45 +1,92 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
+
 ![Hi](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png "Hi")
 
-### Welcome to my Page!
-### I'm [Zeeshan](https://www.linkedin.com/in/iamzeeali/ "My Portfolio"), a passionate, self-taught full stack software engineer from India, specializing in building seamless, responsive, and dynamic applications using ReactJS, HTML, CSS, and JavaScript. Proficient in Node.js, REST APIs, MongoDB, data structures, and system design. Committed to optimizing performance, ensuring cross-browser compatibility, and delivering exceptional user experiences. I focus on attention to details, user experience, architecture, and code quality of the things I build. I am also a DSA and system design enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
-Email: <mdzeeshanali@myyahoo.com>
+## Welcome to my GitHub 👋
 
-- Loving son & a full stack JavaScript Developer 👨‍💻
-- Little biased towards frontend 😌. 
-- JavaScript fan boy. 🤩
-- Problem solver.📝
-- Have a thing for challenges and continues learning. 🤓 🧗
-______________________________________________________________________________________________________________________________________________________________________
+I'm **Zeeshan**, a senior frontend-focused full stack JavaScript engineer from India with 6+ years of experience building scalable, high-performance web applications and AI-powered products.
 
-### My stack & tools:
+I specialize in crafting responsive, user-centric interfaces using **React.js, JavaScript, TypeScript, HTML, and CSS**, while also working across the backend with **Node.js, Express, MongoDB, and REST APIs**.
+
+Recently, my focus has expanded into **Generative AI engineering**, where I’m building:
+
+* AI agents & autonomous workflows
+* RAG (Retrieval-Augmented Generation) applications
+* AI-powered developer tools
+* LLM-integrated full stack applications
+* Intelligent automation systems
+
+### What I focus on
+
+* Frontend architecture & performance optimization
+* Scalable UI engineering & developer experience
+* System design & application architecture
+* Building end-to-end AI-enabled products
+* Clean, maintainable, and scalable codebases
+
+### Areas of Interest
+
+* Generative AI & AI agents
+* LLM application architecture
+* System design & scalable distributed systems
+* Developer tooling, Docker, and infrastructure
+* Modern frontend engineering
+
+I enjoy solving complex engineering problems, learning deeply, and building products that balance performance, usability, and maintainability.
+
+📫 Email: **[mdzeeshanali@myyahoo.com](mailto:mdzeeshanali@myyahoo.com)**
+
+---
+
+## 🏆 Certifications & Badges
+
+* Microsoft Certified: GitHub Copilot
+* EY AI Engineering Badge — Bronze (2026)
+* EY Blockchain Badge — Bronze (2026)
+* DAML Contract Developer Certification
+* Agile Software Development Certification- LinkedIn
+
+---
+
+## ⚡ Tech Stack & Tools
+
 <p>
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
- <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Expressjs-43853d?style=flat-square&logo=Express.js&logoColor=white" />
-  </p>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+</p>
 
-______________________________________________________________________________________________________________________________________________________________________
+---
 
-### 📈 My Github stats:
-[![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamzeeali&show_icons=true&theme=radical)](https://github.com/iamzeeali/github-readme-stats)
+## 📈 GitHub Stats
 
-______________________________________________________________________________________________________________________________________________________________________
+[![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamzeeali\&show_icons=true\&theme=radical)](https://github.com/iamzeeali/github-readme-stats)
 
-### Where to find me:
-<p><a href="https://github.com/iamzeeali" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/iamzeeali" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/iamzeeali" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+---
+
+## 🌐 Connect with Me
+
+<p>
+<a href="https://github.com/iamzeeali" target="_blank">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/iamzeeali" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/iamzeeali" target="_blank">
+<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 </p>
