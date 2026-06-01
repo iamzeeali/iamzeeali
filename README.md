@@ -4,7 +4,7 @@
 
 ## Welcome to my GitHub 👋
 
-I'm **Zeeshan**, a senior frontend-focused full stack JavaScript engineer from India with 6+ years of experience building scalable, high-performance web applications and AI-powered products.
+I'm **Zeeshan**, a senior frontend-focused full stack JavaScript engineer from India with 8+ years of experience building scalable, high-performance web applications and AI-powered products.
 
 I specialize in crafting responsive, user-centric interfaces using **React.js, JavaScript, TypeScript, HTML, and CSS**, while also working across the backend with **Node.js, Express, MongoDB, and REST APIs**.
 
